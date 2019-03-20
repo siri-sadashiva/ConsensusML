@@ -8,4 +8,5 @@ pip install -U scikit-learn
 
 ### Matplotlib:
 conda install -c conda-forge matplotlib (OR)
-pip install --upgrade setuptools pip install matplotlib
+pip install --upgrade setuptools
+pip install matplotlib
