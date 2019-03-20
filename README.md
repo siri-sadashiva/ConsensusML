@@ -8,7 +8,7 @@ Leukemia is a cancer of the blood arising in white blood cells of the bone marro
 This project builds on the ConsensusML project ( https://github.com/NCBI-Hackathons/ConsensusML ) by selecting features through Pearson's correlation coefficient and implementing a Random Forest classification method.The classification consists of two groups of patients, high risk and low risk.
 
 ### Dependencies
-To notebook contains the required dependencies to be installed. If in case the installation fails, please install the follwing by running the commands in terminal
+To notebook contains the required dependencies to be installed in the cell. If in case the installation fails after running the cell, please install the follwing by running the commands in terminal
 
 ### Scikit:
 conda install scikit-learn (OR)
@@ -20,3 +20,13 @@ conda install -c conda-forge matplotlib (OR)
 
 pip install --upgrade setuptools
 pip install matplotlib
+
+
+### Pandas:
+conda install pandas (OR)
+pip install pandas
+
+### Numpy 
+conda install -c anaconda numpy (OR)
+pip install numpy
+
