@@ -31,5 +31,5 @@ conda install -c anaconda numpy (OR)
 pip install numpy
 
 ### Other requirements:
-1. When running the BioInformatics_AML.ipynb notebook, please make all the folders Clinical_Data, Expn_Data, Manifest_Data and clean.py file are present in the same directory.
+1. When running the BioInformatics_AML.ipynb notebook, please make sure all the folders Clinical_Data, Expn_Data, Manifest_Data and clean.py file are present in the same directory.
 2. While reading the csv files, change the pathname to read the files from the current directory. 
